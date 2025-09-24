@@ -4,7 +4,7 @@ This is my 3D Startup project built with HTML, CSS, and JavaScript.
 
 ## Screenshot
 
-![Project Screenshot](thumbnail.png)
+![Project Screenshot](thumbnail(1).png)
 
 ## Features
 - 3D animations
